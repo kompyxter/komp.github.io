@@ -1,0 +1,30 @@
+body {
+  font-size: 35px;
+}
+div {
+  display: flex;
+}
+#block-1 {
+ background: red;
+ width: 222px;
+ height: 120px;
+}
+#block-2 {
+   background: #199bf7;
+ width: 222px;
+ height: 120px;
+
+
+}
+#block-3 {
+   background: #19f758;
+ width: 222px;
+ height: 120px;
+
+}
+#block-4 {
+background: #e4f067;
+ width: 222px;
+ height: 120px;
+
+ }
